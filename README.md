@@ -9,3 +9,5 @@ To train the model, you would use a supervised learning approach, in which the m
 Once the model has been trained, you can use it to predict the mental state of new individuals by providing it with the relevant input features and letting it generate a prediction based on the patterns it has learned from the training data.
 
 It is important to note that mental state prediction is a complex task and there are many factors that can influence an individual's mental state. As such, the accuracy of a mental state prediction model will depend on the quality and quantity of the training data, as well as the specific machine learning algorithm and hyperparameters used.
+
+ML Model with the provided FortNite Statistics Data
